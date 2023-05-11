@@ -1,0 +1,9 @@
+[submodule "source/test/materaial"]
+	path = source/test/materaial
+	url = https://github.com/Kridselot/DUDS
+[submodule "source/test/material"]
+	path = source/test/material
+	url = https://github.com/Kridselot/DUDS
+[submodule "source/others/DelphiAST"]
+	path = source/others/DelphiAST
+	url = https://github.com/Kridselot/DelphiAST
